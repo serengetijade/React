@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|c:\\users\\jabreu\\documents\\github\\react\\basicexamples\\react_basics\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|solutionrelative:src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|c:\\users\\jabreu\\documents\\github\\react\\basicexamples\\react_basics\\src\\components\\clickhander.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|solutionrelative:src\\components\\clickhander.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|c:\\users\\jabreu\\documents\\github\\react\\basicexamples\\react_basics\\src\\components\\multipleeventhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|solutionrelative:src\\components\\multipleeventhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|c:\\users\\jabreu\\documents\\github\\react\\basicexamples\\react_basics\\src\\components\\formhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|solutionrelative:src\\components\\formhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|c:\\users\\jabreu\\documents\\github\\react\\basicexamples\\react_basics\\src\\components\\inputhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|solutionrelative:src\\components\\inputhandler.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|c:\\users\\jabreu\\documents\\github\\react\\basicexamples\\react_basics\\src\\components\\greeting.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EFEC7815-2EB2-4C18-9390-9FC94F5B5BFD}|react_basics.esproj|solutionrelative:src\\components\\greeting.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 157,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T23:06:18.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Greeting.tsx",
+              "DocumentMoniker": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\components\\Greeting.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Greeting.tsx",
+              "ToolTip": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\components\\Greeting.tsx",
+              "RelativeToolTip": "src\\components\\Greeting.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T23:22:12.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClickHander.tsx",
+              "DocumentMoniker": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\components\\ClickHander.tsx",
+              "RelativeDocumentMoniker": "src\\components\\ClickHander.tsx",
+              "ToolTip": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\components\\ClickHander.tsx",
+              "RelativeToolTip": "src\\components\\ClickHander.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T23:47:19.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputHandler.tsx",
+              "DocumentMoniker": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\components\\InputHandler.tsx",
+              "RelativeDocumentMoniker": "src\\components\\InputHandler.tsx",
+              "ToolTip": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\components\\InputHandler.tsx",
+              "RelativeToolTip": "src\\components\\InputHandler.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T23:51:45.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHandler.tsx",
+              "DocumentMoniker": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\components\\FormHandler.tsx",
+              "RelativeDocumentMoniker": "src\\components\\FormHandler.tsx",
+              "ToolTip": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\components\\FormHandler.tsx",
+              "RelativeToolTip": "src\\components\\FormHandler.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T23:59:16.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultipleEventHandler.tsx",
+              "DocumentMoniker": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\components\\MultipleEventHandler.tsx",
+              "RelativeDocumentMoniker": "src\\components\\MultipleEventHandler.tsx",
+              "ToolTip": "C:\\Users\\jabreu\\Documents\\GitHub\\React\\BasicExamples\\React_Basics\\src\\components\\MultipleEventHandler.tsx",
+              "RelativeToolTip": "src\\components\\MultipleEventHandler.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-05T00:13:52.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1199,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
